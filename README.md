@@ -16,7 +16,10 @@ Our next face-to-face meeting will take place
 > Wednesday, **11 December 2019**  
 > **20:00**  
 > at **Excellence Cluster *Matters of Activity***  
-> Address tba
+> Sophienstr. 22a ([Google map](https://goo.gl/maps/6oRnHWXGVRes29f4A)), use the doorway, go to 2nd backyard, turn right and use stairs/elevator to 2nd floor, turn right and say hello (or use bell if door is closed).  
+> Mobile phone: +4930209366312 
+>
+> Our neighbours and/or the security guards may close the doorway at 8 p.m. which means waiting in the cold for pick up if you arrive late.
 
 - Agenda & notes: <https://pad.gwdg.de/s/BJ8ZbO93r#>
 
@@ -30,12 +33,12 @@ Our next face-to-face meeting will take place
 
 #### Details: 
 
-- Available tech (projector, etc.): *tba*
-- Food and drinks policy: *tba*
+- Available tech (projector, etc.): *3 Beamers w/ HDMI & adapters*
+- Food and drinks policy: *Soft drinks can be bought at venue, you can also bring your own food/drinks.*
 
 ### Register for the next meeting
 
-- **tba**
+- n/a
 
 # **Let's go beRSErc!**
 
