@@ -26,7 +26,7 @@ Our next face-to-face meeting will take place
 
 #### Topic
 
-- *Best practices in Research Software Engineering* (tbc)
+- *Best practices in Research Software Engineering*
 
 ##### Speakers
 
