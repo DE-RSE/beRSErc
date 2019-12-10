@@ -1,5 +1,7 @@
 # beRSErc - Berlin-Brandenburg RSE regional chapter
 
+![](be-RSE-rc-logo-colour.png)
+
 Welcome to the website (prototype) for the **b**erlin-brand**e**nburg **RSE** **r**egional **c**hapter, the - you guessed it - regional chapter of [de-RSE](https://de-rse.org) in Berlin and Brandenburg.
 
 beRSErc is an open group of people from the area who care about research software.
