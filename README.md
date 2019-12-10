@@ -30,7 +30,8 @@ Our next face-to-face meeting will take place
 
 ##### Speakers
 
-- **tba**
+- *Carina Haupt (DLR)*: Research Software Engineering Guidelines at the Geman Aerospace Center
+- *Maximilian Dolling (GFZ)*: Software Engineering Guidelines at GFZ
 
 #### Details: 
 
