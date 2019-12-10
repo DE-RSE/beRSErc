@@ -16,8 +16,9 @@ Our next face-to-face meeting will take place
 > Wednesday, **11 December 2019**  
 > **20:00**  
 > at **Excellence Cluster *Matters of Activity***  
-> Sophienstr. 22a ([Google map](https://goo.gl/maps/6oRnHWXGVRes29f4A)), use the doorway, go to 2nd backyard, turn right and use stairs/elevator to 2nd floor, turn right and say hello (or use bell if door is closed).  
-> Mobile phone: +4930209366312 
+> **Sophienstr. 22a** ([Google map](https://goo.gl/maps/6oRnHWXGVRes29f4A))  
+> Use the doorway, go to 2nd backyard, turn right and use stairs/elevator to 2nd floor, turn right and say hello (or use bell if door is closed).  
+> Mobile phone: [+4930209366312](<tel:+4930209366312>)
 >
 > Our neighbours and/or the security guards may close the doorway at 8 p.m. which means waiting in the cold for pick up if you arrive late.
 
